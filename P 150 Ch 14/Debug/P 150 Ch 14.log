@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\valued customer\documents\college\c++\p 150 ch 14\p 150 ch 14\source.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  P 150 Ch 14.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\P 150 Ch 14\Debug\P 150 Ch 14.exe
+  P 150 Ch 14.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\P 150 Ch 14\Debug\P 150 Ch 14.pdb (Full PDB)
